@@ -1,0 +1,274 @@
+
+#choosen {
+    color: white;
+    border-left: 1px solid white;
+}
+
+
+.bg1 {
+    background-image: url("../img/lights.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.right{
+    text-align: right;
+}
+
+.carousel-caption {
+    padding-bottom: 150px;
+}
+
+.white {
+    background-color: white;
+}
+
+.content2-icon {
+    font-size: 30px;
+    color: #333333;
+}
+
+.content2-text {
+    text-align: center;
+    color: #333333;
+    font-size: 12px;
+    padding: 30px 0px;
+}
+
+.content3-text {
+    color: white;
+    text-align: center;
+}
+
+.content4-text {
+    font-size: 15px;
+    text-align: left;
+    padding: 80px 0px;
+}
+
+.content4-button {
+    color: red;
+    border: 1px solid red;
+    background-color: white;
+}
+
+.content4-img {
+    width: 500px;
+}
+
+.bg2 {
+    background-image: url("../img/media.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: #ffff;
+    text-align: center;
+
+
+}
+.opacity {
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%; 
+
+}
+
+.play {
+    color: white;
+    font-size: 35px;
+    padding-top: 30px;
+}
+
+.video {
+    width: 150px;
+    height: 150px;
+    
+}
+.img {
+    margin-bottom: 30px;
+}
+
+.gray {
+    background-color: #333333;
+}
+
+.content7 {
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.black {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    height: 90px;
+}
+.footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/* ABOUTUS */
+
+.image1 {
+    background-image: url("../img/image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:100%; 
+    height:500px;
+    background-attachment: fixed;
+}
+
+.content1-center {
+    width: 100%;
+    height: 300px;
+    padding-top: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.about-img {
+    border-radius: 50%;
+    margin-top:  -80px;
+
+}
+
+.aboutus-margintop {
+    margin-top: 30px;
+}
+
+.text-box {
+    color: white;
+    padding: 15px 6px;
+    background-color: red;
+    font-size: 13px;
+    border-radius: 8px;
+}
+
+.text-box i{
+    font-size: 24px;
+}
+
+.aboutus-content3 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.aboutus-blockquote{
+    border: none;
+}
+
+
+/* BLOG */
+
+
+.blog-content2 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.card-column img{
+    height: 250px;
+    
+    
+}
+
+.blog-padding {
+    padding: 12px;
+
+}
+
+.blog-margin {
+    margin-top: 10px;
+    
+}
+
+.card-title {
+    font-weight: bolder;
+}
+.red {
+    background-color: red;
+    color: white;
+}
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+/* Contact us */
+
+.padding {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.b {
+    font-weight: bolder;
+}
+
+.contact-button {
+    color: red;
+    border: 1px solid red;
+    background-color: white;
+    margin-bottom: 15px;
+}
+
+.contact-button:hover{
+    background-color: red;
+    color: white;
+}
+
+.staff {
+    color: white;
+    text-align: center;
+    padding: 20px 0px;
+}
+.contact-hr {
+    border-color: black;
+    width: 90%;
+}
+.staff img{
+    border-radius: 50%;
+}
+
+.services {
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+
+}
+
+
+/* Services */
+
+.service-box {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 15px;
+}
+
+.service-card-header {
+    margin-bottom: 25px;
+}
+
+.service-card-footer {
+    margin-top: 15px;
+}
